@@ -2,7 +2,7 @@
 Souled out soul collectors from The Drill
 
 
-
+```
 Extract all
 
 Rename usermaps/mapname folder to your mapname folder
@@ -60,3 +60,4 @@ Rewards edited in souled_out.gsh
 Adding script_string kvp to collector will override reward for that collector
 Reward for finsihing all not included
 There is a flag set after all are finished for you to use, the flag is the targetname of the collector
+```
