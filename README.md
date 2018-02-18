@@ -19,6 +19,7 @@ mapname\zone_source\:
 
 In share you should have:
 share\raw\:
+
 	fx\:
 		greenlight.efx
 		machineidlefx.efx
@@ -31,6 +32,7 @@ share\raw\:
 		souled_out.atr
 
 In mapsource you should have:
+
 mapsouce\_prefabs\souled_out\:
 	souled_out.map
 	soul_caps.map
