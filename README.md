@@ -44,6 +44,17 @@ mapsouce\_prefabs\souled_out\:
 
 In sound_assets:
 	sound_assets\soul_grow\pistons.wav
+	
+In model_export\souled_out\:
+	soul_trap_shine.xmodel_bin
+	zgrimm_soultrap_pistons_30.xmodel.bin
+
+In art_assets\custom\soultrap\:
+	4 images
+
+In xanim_export\souled_out\:
+	zgrimm_soultrap_ext_anim.XANIM_BIN
+	zgrimm_soultrap_piston_loop.XANIM_BIN
 
 Add to zone:
 	include,souled_out
