@@ -11,7 +11,6 @@ Copy all to root folder
 
 
 In your mapname folder you should have:
-
 mapname\scripts\zm\souled_out\:
 	credits.txt
 	souled_out.gsc - the main script
@@ -34,13 +33,17 @@ share\raw\:
 
 	animtrees\:
 		souled_out.atr
+	
+	sound\aliases\:
+		Souled_Out.csv
 
 In mapsource you should have:
-
 mapsouce\_prefabs\souled_out\:
 	souled_out.map
 	soul_caps.map
 
+In sound_assets:
+	sound_assets\soul_grow\pistons.wav
 
 Add to zone:
 	include,souled_out
