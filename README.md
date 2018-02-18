@@ -59,6 +59,8 @@ In xanim_export\souled_out\:
 Add to zone:
 	include,souled_out
 
+In mapname.gsc
+	#using scripts\zm\souled_out\souled_out;
 
 Radiant:
 	Add as many soul collector prefabs as you like (the caps are part of the souled_out prefab)
