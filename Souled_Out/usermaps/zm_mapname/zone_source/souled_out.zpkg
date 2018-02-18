@@ -1,0 +1,10 @@
+rawfile,animtrees/souled_out.atr
+xanim,o_zgrimm_piston_loop
+xanim,o_zgrimm_extenders_all
+scriptparsetree,scripts/zm/souled_out/souled_out.gsc
+scriptparsetree,scripts/zm/souled_out/souled_out.gsh
+fx,souled_out/redlight 
+fx,souled_out/machineidlefx
+fx,souled_out/soulcollect 
+fx,souled_out/soulenter
+fx,souled_out/greenlight 
