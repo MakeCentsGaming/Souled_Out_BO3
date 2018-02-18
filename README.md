@@ -61,7 +61,7 @@ Add to zone:
 
 
 Radiant:
-	Add as many soul collector prefabs as you like
+	Add as many soul collector prefabs as you like (the caps are part of the souled_out prefab)
 
 For multiple systems:
 
