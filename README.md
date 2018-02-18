@@ -4,7 +4,9 @@ Souled out soul collectors from The Drill
 
 
 Extract all
+
 Rename usermaps/mapname folder to your mapname folder
+
 Copy all to root folder
 
 
