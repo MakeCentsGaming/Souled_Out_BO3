@@ -42,7 +42,7 @@ mapsouce\_prefabs\souled_out\:
 	souled_out.map
 	soul_caps.map
 
-In sound_assets:
+In sound_assets: (Add the sound alias to your szc)
 	sound_assets\soul_grow\pistons.wav
 	
 In model_export\souled_out\:
