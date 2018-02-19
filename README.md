@@ -34,7 +34,7 @@ share\raw\:
 	animtrees\:
 		souled_out.atr
 	
-	sound\aliases\:
+	sound\aliases\: (Add the sound alias to your szc)
 		Souled_Out.csv
 
 In mapsource you should have:
@@ -42,7 +42,7 @@ mapsouce\_prefabs\souled_out\:
 	souled_out.map
 	soul_caps.map
 
-In sound_assets: (Add the sound alias to your szc)
+In sound_assets: 
 	sound_assets\soul_grow\pistons.wav
 	
 In model_export\souled_out\:
@@ -72,6 +72,7 @@ For multiple systems:
 	
 		level thread SoulGroup("newtargetname");
 
+Don't forget to add the sound alias to your szc file
 Rewards edited in souled_out.gsh
 Adding script_string kvp to collector will override reward for that collector
 Reward for finsihing all not included
