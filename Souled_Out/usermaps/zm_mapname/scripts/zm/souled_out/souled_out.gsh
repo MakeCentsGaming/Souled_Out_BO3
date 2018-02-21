@@ -21,3 +21,9 @@
 #define SOULEDTRAVELSOUND		"evt_nuked" //the sound the soul makes as it travels
 #define SOULEDENTERSOUND		"amb_sparks" //the sound the soul makes when it enters collector
 #define SOULEDREWARDSPAWNSOUND	"zmb_spawn_powerup" //the sound for the collector completion reward
+
+
+//end game
+#define ENDGAMEHINTSTRING 		"Press ^3[{+activate}]^7 to end game [Cost: &&1]"
+#define ENDGAMEAVAILFLAG 		"souled_out"
+#define ENDGAMECOST 			5000
