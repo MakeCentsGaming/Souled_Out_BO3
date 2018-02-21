@@ -55,6 +55,7 @@ function private WaitTillEndGame()
 			player zm_score::minus_to_player_score(cost);
 			player PlayLocalSound("zmb_cha_ching");
 			level thread NoPlayerDies();
+			self delete();
 			level notify("end_game");
 		}
 		player PlayLocalSound("zmb_no_cha_ching");
